@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/prady0t/prady0t/assets/99216956/15835f23-01b6-4352-90e9-3cb5549bd8b4)
+
+
 <!--
 **prady0t/prady0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
