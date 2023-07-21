@@ -1,6 +1,7 @@
-### Hi there 👋
 
-![image](https://github.com/prady0t/prady0t/assets/99216956/15835f23-01b6-4352-90e9-3cb5549bd8b4)
+
+![image](https://github.com/prady0t/prady0t/assets/99216956/abeea82f-58e5-4c07-8f98-2acf44b46ace)
+
 
 
 <!--
@@ -17,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+FAQ:
+
+Q) Does everything has to be Rick-n-Morty themed?
+
+YES
