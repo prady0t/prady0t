@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-FAQ:
-
-Q) Does everything has to be Rick-n-Morty themed?
-
-YES
